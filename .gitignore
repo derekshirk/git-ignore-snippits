@@ -8,7 +8,6 @@
 *.swp
 *.vi
 *~
-*.sass-cache
 
 # OS or Editor folders
 .DS_Store
@@ -19,8 +18,12 @@ Thumbs.db
 .tmproj
 *.esproj
 nbproject
-*.sublime-project
-*.sublime-workspace
+Icon?
+._*
+.Spotlight-V100
+.Trashes
+
+
 
 # Dreamweaver added files
 _notes
@@ -52,3 +55,31 @@ sitemap.xml.gz
 
 # Codekit
 .codekit-cache
+
+# Node.js with Express and Stlyus
+public/css/*.css
+public/css/main/*.css
+public/css/admin/*.css
+/.monitor
+
+# Eclipse
+/.project
+/.settings
+/.buildpath
+
+# Sublime
+*.sublime-project
+*.sublime-workspace
+
+# Vim
+.*.sw[a-z]
+*.un~i
+tags
+
+# nodejs npm modules
+/node_modules
+
+# sass
+*.sass-cache
+.sass-cache
+*.css.map

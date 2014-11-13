@@ -11,5 +11,10 @@ Currently Optimized for:
 - WordPress
 - Sitemaps
 - Codekit
+- Node.js
+- Eclipse
+- Sublime Text
+- VIM
+- sass
 
 _If you would like to make a suggestion or see an addition to this list contributors are welcome_
