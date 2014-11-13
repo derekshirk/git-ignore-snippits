@@ -37,3 +37,18 @@ dwsync.xml
 intermediate
 .idea
 cache
+
+# WordPress
+license.txt
+readme.html
+wp-config.php
+wp-content/uploads
+.htaccess
+
+
+# Sitemaps
+sitemap.xml
+sitemap.xml.gz
+
+# Codekit
+.codekit-cache
